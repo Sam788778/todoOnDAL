@@ -11,14 +11,14 @@
   border-radius: 15px;
   background: linear-gradient(145deg, #ffffff, #f0f0f0);
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05),
-              -5px -5px 15px rgba(255, 255, 255, 0.8);
+    -5px -5px 15px rgba(255, 255, 255, 0.8);
   transition: all 0.3s ease;
 }
 
 .todoItem:hover {
   transform: translateY(-3px);
   box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.1),
-              -8px -8px 20px rgba(255, 255, 255, 0.8);
+    -8px -8px 20px rgba(255, 255, 255, 0.8);
 }
 
 .todoItem span {
@@ -34,7 +34,7 @@
   border-radius: 20px;
   background: linear-gradient(145deg, #ffffff, #e6e6e6);
   box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1),
-              inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+    inset -2px -2px 5px rgba(255, 255, 255, 0.7);
 }
 
 .todoItem button {
